@@ -7,11 +7,10 @@
 **Session 3:** [Using Word2Vec to understand NLP Task](https://github.com/alvations/tsundoku/blob/master/empty/Session%203%20-%20Using%20Word2Vec%20to%20understand%20NLP%20Task.ipynb)
 
 
-**Note:** The completed notebooks are on https://github.com/alvations/tsundoku/tree/master/completed, try not to peek until end of the class
+**Note:** Try not to peek at the [completed notebooks](https://github.com/alvations/tsundoku/tree/master/completed) until end of the class
 
 # License
 
 ```
 MIT License
 ```
-
