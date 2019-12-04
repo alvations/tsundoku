@@ -12,6 +12,14 @@
 
 **Session 6:** [GRU Language Model](https://github.com/alvations/tsundoku/blob/master/empty/Session%206%20-%20GRU%20Language%20Model.ipynb)
 
+**Session 7:** [The Annotated Transformer](https://www.kaggle.com/alvations/the-annotated-transformer-from-alexander-rush)
+
+**Session 8:** [Transfer Learning for NLP](https://www.kaggle.com/alvations/transfer-learning-in-nlp)
+
+**Session 9:** [Kopitiam]()
+
+**Session 10:** [(Course Asessement)]()
+
 
 **Note:** Try not to peek at the [completed notebooks](https://github.com/alvations/tsundoku/tree/master/completed) until end of the class
 
