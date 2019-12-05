@@ -4,7 +4,7 @@
 
 **Session 2:** [Deep Dive into DL](https://github.com/alvations/tsundoku/blob/master/empty/Session%202%20-%20Deep%20Dive%20to%20Deep%20Learning.ipynb)
 
-**Session 3:** [Using Word2Vec to understand NLP Task](https://github.com/alvations/tsundoku/blob/master/empty/Session%203%20-%20Using%20Word2Vec%20to%20understand%20NLP%20Task.ipynb)
+**Session 3:** [Using Word2Vec to understand NLP Task](https://github.com/alvations/tsundoku/blob/master/completed/Session%203%20-%20Using%20Word2Vec%20to%20understand%20NLP%20Task.ipynb)
 
 **Session 4:** [Nuts and Bolt](https://github.com/alvations/tsundoku/blob/master/empty/Session%204%20-%20Nuts%20and%20Bolts.ipynb)
 
