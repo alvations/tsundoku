@@ -23,6 +23,21 @@
 
 **Note:** Try not to peek at the [completed notebooks](https://github.com/alvations/tsundoku/tree/master/completed) until end of the class
 
+# Requirements
+
+Python >= 3.6
+
+```
+torch>=1.2.0
+gensim>=3.7.0
+sklearn 
+seaborn
+tqdm 
+nltk 
+lazyme 
+requests
+```
+
 # License
 
 ```
