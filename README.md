@@ -20,8 +20,9 @@
 
 **Session 10:** [(Course Asessement) Toxic Comments Classification](https://github.com/alvations/tsundoku/blob/master/empty/Session%20Last%20-%20Textcat-Toxic-Empty.ipynb)
 
-
+<!--
 **Note:** Try not to peek at the [completed notebooks](https://github.com/alvations/tsundoku/tree/master/completed) until end of the class
+-->
 
 # Requirements
 
