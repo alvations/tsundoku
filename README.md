@@ -22,7 +22,12 @@
 
 <!--
 **Note:** Try not to peek at the [completed notebooks](https://github.com/alvations/tsundoku/tree/master/completed) until end of the class
+
+
 -->
+
+<math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mi>d</mi><mo>(</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>)</mo></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac></math>
+
 
 # Requirements
 
