@@ -10,7 +10,8 @@
 
 **Session 5:** [Ngram Language Model](https://github.com/alvations/tsundoku/blob/master/empty/Session%205%20-%20Ngram%20Language%20Model%20with%20NLTK.ipynb)
 
-**Session 6:** [GRU Language Model](https://github.com/alvations/tsundoku/blob/master/empty/Session%206%20-%20GRU%20Language%20Model.ipynb)
+**Session 6:** [GRU Language Model](https://www.kaggle.com/alvations/gru-language-model)
+<!-- (https://github.com/alvations/tsundoku/blob/master/empty/Session%206%20-%20GRU%20Language%20Model.ipynb) -->
 
 **Session 7:** [The Annotated Transformer](https://www.kaggle.com/alvations/the-annotated-transformer-from-alexander-rush)
 
